@@ -1,7 +1,7 @@
 {
     "Author": "Ruud Borst",
     "ContentSize": 11456,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-stack-post-deployment-script-(tp2)-(powershell)/master/PostDeployScript-AzureStack.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-stack-post-deployment-script--tp2---powershell-/master/PostDeployScript-AzureStack.ps1",
     "DownloadCount": 699,
     "Id": "Azure-Stack-Post-a8fc1fd5",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This Azure Stack post-deployment script clears up space and improves the performance of your Azure Stack enviroment. Example: .\\PostDeployScript-AzureStack.ps1",
     "Title": "Azure Stack Post Deployment Script (TP2) (PowerShell)",
     "UpdatedDate": "2017-4-5T00:00:00",
-    "Url": "https://github.com/azureautomation/azure-stack-post-deployment-script-(tp2)-(powershell)",
+    "Url": "https://github.com/azureautomation/azure-stack-post-deployment-script--tp2---powershell-",
     "UserTags": "Azure Stack, Post-Deployment"
 }
